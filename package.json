@@ -1,0 +1,12 @@
+{
+  "name": "karta-detstva",
+  "version": "1.0.0",
+  "description": "Гео-ориентированный маркетплейс для детей",
+  "main": "script.js",
+  "scripts": {
+    "start": "index.html"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0"
+  }
+}
